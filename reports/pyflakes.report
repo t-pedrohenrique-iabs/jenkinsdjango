@@ -1,0 +1,8 @@
+../../../.virtualenvs/jenkinsdjango/lib/python3.8/site-packages/django/contrib/messages/__init__.py:1:1 'from django.contrib.messages.api import *' used; unable to detect undefined names
+../../../.virtualenvs/jenkinsdjango/lib/python3.8/site-packages/django/contrib/messages/__init__.py:1:1 'django.contrib.messages.api.*' imported but unused
+../../../.virtualenvs/jenkinsdjango/lib/python3.8/site-packages/django/contrib/messages/__init__.py:2:1 'from django.contrib.messages.constants import *' used; unable to detect undefined names
+../../../.virtualenvs/jenkinsdjango/lib/python3.8/site-packages/django/contrib/messages/__init__.py:2:1 'django.contrib.messages.constants.*' imported but unused
+budget/admin.py:1:1 'django.contrib.admin' imported but unused
+budget/urls.py:1:1 'django.contrib.admin' imported but unused
+budget/views.py:2:1 'django.http.HttpResponseRedirect' imported but unused
+budget/views.py:5:1 'django.utils.text.slugify' imported but unused
